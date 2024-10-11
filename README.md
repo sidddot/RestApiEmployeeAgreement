@@ -17,6 +17,14 @@ This project uses MVC architecture which consists of Presentation, Service and P
  ![mvc architecture](https://github.com/user-attachments/assets/20fba177-a44f-41f4-b028-d0aa12e863e3)
 
 
+## Database design
+![image](https://github.com/user-attachments/assets/fd70518c-d78c-4fc9-aa92-a18cfdbf403b)
+
+
+## Api design
+![image](https://github.com/user-attachments/assets/8e456f49-f025-4664-a9a2-8bd766df5631)
+
+
 ## Installation
 Clone the repository:
 git clone https://github.com/sidddot/RestApiEmployeeAgreement
